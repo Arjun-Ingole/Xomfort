@@ -1,0 +1,1 @@
+class BookingOngoing1Model { }
